@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rahul 👋
 
 <!--
 **rhosmani/rhosmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Software Developer!! 
+
+- 🌱 I’m currently learning everything 🤣
+- 😄 Pronouns: He, him, his
+- ⚡ Fun fact: I love to read comic books and play video games.
+
+### Connect with me:
+
+[<img align="left" alt="rhosmani" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rhosmani" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="rhosmani's GitHub Stats" src="https://github-readme-stats.rhosmani.vercel.app/api?username=rhosmani&show_icons=true&hide_border=true" />
+
+</details>
+
+[instagram]: https://instagram.com/rahulhosmani/
+[linkedin]: https://linkedin.com/in/rahul-hosmani/
+
