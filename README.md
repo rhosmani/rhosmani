@@ -26,13 +26,23 @@ Here are some ideas to get you started:
 [<img align="left" alt="rhosmani" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rhosmani" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="rhosmani's GitHub Stats" src="https://github-readme-stats.rhosmani.vercel.app/api?username=rhosmani&show_icons=true&hide_border=true" />
+  <img align="left" alt="rhosmani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rhosmani&show_icons=true&hide_border=true" />
 
 </details>
 
-[instagram]: https://instagram.com/rahulhosmani/
-[linkedin]: https://linkedin.com/in/rahul-hosmani/
+[instagram]: https://instagram.com/rahulhosmani
+[linkedin]: https://linkedin.com/in/rahul-hosmani
 
