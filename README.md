@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Android" style="padding:10px,10px,10px,10px;  src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge"/>
+<img align="left" alt="Android" style="padding:10"  src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Java" style="padding:10px,10px,10px,10px; src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" alt="Kotlin" style="padding:10px,10px,10px,10px;src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img align="left" alt="Python" style="padding:10px,10px,10px,10px;  src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
