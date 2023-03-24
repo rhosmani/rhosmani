@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## I'm a Software Developer!! 
 
 - 🌱 I’m currently learning everything 🤣
-- 😄 Pronouns: He, him, his
 - ⚡ Fun fact: I love to read comic books and play video games.
 
 ### Connect with me:
